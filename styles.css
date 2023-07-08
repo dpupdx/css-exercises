@@ -1,0 +1,32 @@
+/*styles.css*/
+
+.odd-classes {
+
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    color: black;
+    background-color: rgb(251, 121, 143);
+    width: 1000px;
+
+
+}
+
+#Number2 {
+    color: blue;
+    font-size: 36px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    width: 1000px;
+}
+
+span {
+    font-size: 24px;
+    width: 1000px;
+}
+
+#Number4 {
+    color: black;
+    background-color: lightgreen;
+    font-family: verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    width: 1000px;
+}
